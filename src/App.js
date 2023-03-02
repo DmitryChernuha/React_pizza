@@ -26,6 +26,10 @@ function App() {
                             <PizzaBlock title='African' price='500'/>
                             <PizzaBlock title='Italian' price='600'/>
                             <PizzaBlock title='Spain' price='700'/>
+                            <PizzaBlock title='Mexican' price='500'/>
+                            <PizzaBlock title='African' price='500'/>
+                            <PizzaBlock title='Italian' price='600'/>
+                            <PizzaBlock title='Spain' price='700'/>
 
                         </div>
                     </div>
